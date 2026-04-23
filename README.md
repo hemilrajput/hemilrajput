@@ -114,13 +114,27 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 😄 Dev Joke of the Day
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hemil09/Hemil09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Jokes"/>
 </div>
 
-> ⚠️ *To enable the snake, add `.github/workflows/snake.yml` → [Setup guide here](https://github.com/Platane/snk)*
+---
+
+## 🎯 Coding Activity Breakdown
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemil09&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemil09&theme=tokyonight" width="32%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemil09&theme=tokyonight" width="32%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemil09&theme=tokyonight&utcOffset=5.5" width="32%"/>
+</div>
 
 ---
 
