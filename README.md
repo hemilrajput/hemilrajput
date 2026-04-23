@@ -70,7 +70,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemil09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemil09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemil09&theme=tokyonight&hide_border=true" height="180"/>
 </div>
