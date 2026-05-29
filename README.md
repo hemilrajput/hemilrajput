@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Hey%20There!%20I'm%20Hemil%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Hey%20There!%20I'm%20Hemil%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Author%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Vue+%7C+React+%7C+Nuxt+Expert;AWS+%7C+CI%2FCD+%7C+DevOps+Engineer;Django+%7C+Node.js+%7C+Backend+API+Builder;Crafting+Scalable+Web+Solutions+%F0%9F%8C%90" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Vue+%7C+React+%7C+Nuxt+Expert;AWS+%7C+CI%2FCD+%7C+DevOps+Engineer;Node.js+%7C+Django+%7C+Backend+API+Builder;Open+Source+Author+of+laravel-typegen+%F0%9F%93%A6;Crafting+Scalable+Web+Solutions+%F0%9F%8C%90" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -17,25 +17,49 @@
 ```yaml
 👤  Name     : Hemil Rajput
 📍  Location : Ahmedabad, India 🇮🇳
-💼  Role     : Full Stack Developer @ CWISER
+💼  Role     : Senior Web Developer @ cWiser InfoTech
+🧰  Exp      : 5+ years (WordPress → Full-Stack → DevOps)
+📦  Author   : laravel-typegen (open source, on Packagist)
 📧  Email    : rajputhemil4@gmail.com
 
 🚀  Currently:
-    ├── Building scalable full-stack web apps
-    ├── Mastering AWS & cloud infrastructure
-    ├── Implementing CI/CD pipelines
+    ├── Building & maintaining scalable Laravel products
+    ├── Managing AWS cloud infrastructure
+    ├── Automating releases with CI/CD pipelines
     └── Exploring microservices architecture
 
 💡  Passionate About:
     ├── Clean & maintainable code
     ├── High-performance backend APIs
-    ├── Intuitive user experiences
+    ├── Great developer experience
     └── Automating workflows with DevOps
 
 ⚡  Fun Fact  : I turn ☕ into scalable web apps!
 ```
 
 <br clear="right"/>
+
+---
+
+## 🌟 Featured Project — laravel-typegen
+
+> One Artisan command turns your Laravel Eloquent models, Enums, and FormRequests into a single typed `.ts` file. No more hand-syncing PHP and TypeScript. Built for the Laravel + Inertia + React/Vue stack.
+
+<p align="left">
+  <a href="https://packagist.org/packages/hemilrajput/laravel-typegen">
+    <img src="https://img.shields.io/packagist/v/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=Packagist" />
+  </a>
+  <a href="https://packagist.org/packages/hemilrajput/laravel-typegen">
+    <img src="https://img.shields.io/packagist/dt/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=Downloads" />
+  </a>
+  <a href="https://github.com/hemilrajput/laravel-typegen">
+    <img src="https://img.shields.io/github/stars/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=Stars" />
+  </a>
+  <img src="https://img.shields.io/packagist/l/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=License" />
+</p>
+
+🔗 **Repo:** [github.com/hemilrajput/laravel-typegen](https://github.com/hemilrajput/laravel-typegen)
+📖 **Docs:** [hemilrajput.github.io/laravel-typegen](https://hemilrajput.github.io/laravel-typegen/)
 
 ---
 
@@ -114,46 +138,18 @@
 
 ---
 
-## 😄 Dev Joke of the Day
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Jokes"/>
-</div>
-
----
-
-## 🎯 Coding Activity Breakdown
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemilrajput&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemilrajput&theme=tokyonight" width="32%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemilrajput&theme=tokyonight" width="32%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemilrajput&theme=tokyonight&utcOffset=5.5" width="32%"/>
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hemil-rajput-87a040317)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemil-rajput/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputhemil4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemilrajput)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/hemilrajput/laravel-typegen)
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
-
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
 
