@@ -70,15 +70,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemil09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hemilrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemil09&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemilrajput&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemil09&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemilrajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" height="180"/>
 </div>
 
 ---
@@ -86,7 +86,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemil09&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hemilrajput&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 </div>
 
 ---
@@ -94,7 +94,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemil09&bg_color=1a1b27&color=70a5fd&line=0e75b6&point=38bdae&area=true&area_color=0e75b6&hide_border=true&radius=8" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemilrajput&bg_color=1a1b27&color=70a5fd&line=0e75b6&point=38bdae&area=true&area_color=0e75b6&hide_border=true&radius=8" width="100%"/>
 </div>
 
 ---
@@ -125,15 +125,15 @@
 ## 🎯 Coding Activity Breakdown
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemil09&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemilrajput&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemil09&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemilrajput&theme=tokyonight" width="32%"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemil09&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemilrajput&theme=tokyonight" width="32%"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemil09&theme=tokyonight&utcOffset=5.5" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemilrajput&theme=tokyonight&utcOffset=5.5" width="32%"/>
 </div>
 
 ---
@@ -144,7 +144,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hemil-rajput-87a040317)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputhemil4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemil09)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemilrajput)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 <br/>
@@ -157,9 +157,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hemil09&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=hemilrajput&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Hemil09?label=Followers&style=for-the-badge&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/hemilrajput?label=Followers&style=for-the-badge&color=0e75b6" />
 
 </div>
 
