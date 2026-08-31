@@ -1,162 +1,147 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Hey%20There!%20I'm%20Hemil%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Author%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18" width="100%"/>
+<h1 align="center">Hemil Rajput</h1>
 
-<br/>
+<p align="center">
+  <strong>Backend &amp; Infrastructure Engineer</strong><br/>
+  Laravel · AWS · Ahmedabad, India
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Vue+%7C+React+%7C+Nuxt+Expert;AWS+%7C+CI%2FCD+%7C+DevOps+Engineer;Node.js+%7C+Django+%7C+Backend+API+Builder;Open+Source+Author+of+laravel-typegen+%F0%9F%93%A6;Crafting+Scalable+Web+Solutions+%F0%9F%8C%90" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <a href="mailto:rajputhemil4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajputhemil4%40gmail.com-0e75b6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hemil-rajput/">
+    <img src="https://img.shields.io/badge/LinkedIn-hemil--rajput-0e75b6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://packagist.org/packages/hemilrajput/laravel-typegen">
+    <img src="https://img.shields.io/badge/Packagist-hemilrajput-0e75b6?style=flat-square&logo=packagist&logoColor=white" alt="Packagist"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <em>Open to backend and platform engineering roles — remote or Ahmedabad.</em>
+</p>
 
 ---
 
-## 🙋‍♂️ About Me
+I build and run production web applications: the API layer, the database, and the
+servers underneath. Currently Senior Web Developer at **cWiser InfoTech**, where I own
+Laravel product development and the AWS infrastructure it runs on.
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+Five years in, my work has moved steadily down the stack — from building features, to
+building the APIs behind them, to running the infrastructure that keeps them up.
 
-```yaml
-👤  Name     : Hemil Rajput
-📍  Location : Ahmedabad, India 🇮🇳
-💼  Role     : Senior Web Developer @ cWiser InfoTech
-🧰  Exp      : 5+ years (WordPress → Full-Stack → DevOps)
-📦  Author   : laravel-typegen (open source, on Packagist)
-📧  Email    : rajputhemil4@gmail.com
+<br/>
 
-🚀  Currently:
-    ├── Building & maintaining scalable Laravel products
-    ├── Managing AWS cloud infrastructure
-    ├── Automating releases with CI/CD pipelines
-    └── Exploring microservices architecture
+## `laravel-typegen`
 
-💡  Passionate About:
-    ├── Clean & maintainable code
-    ├── High-performance backend APIs
-    ├── Great developer experience
-    └── Automating workflows with DevOps
+<table>
+<tr>
+<td width="60%" valign="top">
 
-⚡  Fun Fact  : I turn ☕ into scalable web apps!
+One Artisan command that generates TypeScript definitions from your Eloquent models,
+Enums, and FormRequests.
+
+Solves the hand-syncing problem in Laravel + Inertia projects, where PHP types and
+TypeScript types drift apart silently and you find out in production.
+
+**[Repository](https://github.com/hemilrajput/laravel-typegen)** ·
+**[Documentation](https://hemilrajput.github.io/laravel-typegen/)**
+
+<a href="https://packagist.org/packages/hemilrajput/laravel-typegen">
+  <img src="https://img.shields.io/packagist/v/hemilrajput/laravel-typegen?style=flat-square&color=0e75b6&label=version" alt="Version"/>
+</a>
+<a href="https://packagist.org/packages/hemilrajput/laravel-typegen">
+  <img src="https://img.shields.io/packagist/dt/hemilrajput/laravel-typegen?style=flat-square&color=0e75b6&label=downloads" alt="Downloads"/>
+</a>
+<img src="https://img.shields.io/packagist/l/hemilrajput/laravel-typegen?style=flat-square&color=0e75b6&label=license" alt="License"/>
+
+</td>
+<td width="40%" valign="top">
+
+```bash
+composer require \
+  hemilrajput/laravel-typegen --dev
+
+php artisan typegen:generate
 ```
 
-<br clear="right"/>
+```ts
+// resources/js/types/generated.ts
+export interface User {
+  id: number
+  email: string
+  role: UserRole
+}
+```
 
----
-
-## 🌟 Featured Project — laravel-typegen
-
-> One Artisan command turns your Laravel Eloquent models, Enums, and FormRequests into a single typed `.ts` file. No more hand-syncing PHP and TypeScript. Built for the Laravel + Inertia + React/Vue stack.
-
-<p align="left">
-  <a href="https://packagist.org/packages/hemilrajput/laravel-typegen">
-    <img src="https://img.shields.io/packagist/v/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=Packagist" />
-  </a>
-  <a href="https://packagist.org/packages/hemilrajput/laravel-typegen">
-    <img src="https://img.shields.io/packagist/dt/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=Downloads" />
-  </a>
-  <a href="https://github.com/hemilrajput/laravel-typegen">
-    <img src="https://img.shields.io/github/stars/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=Stars" />
-  </a>
-  <img src="https://img.shields.io/packagist/l/hemilrajput/laravel-typegen?style=for-the-badge&color=0e75b6&label=License" />
-</p>
-
-🔗 **Repo:** [github.com/hemilrajput/laravel-typegen](https://github.com/hemilrajput/laravel-typegen)
-📖 **Docs:** [hemilrajput.github.io/laravel-typegen](https://hemilrajput.github.io/laravel-typegen/)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,js,ts,html,css,tailwind,bootstrap,sass&perline=10&theme=dark" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,django,wordpress&perline=10&theme=dark" />
-</p>
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions,bash&perline=10&theme=dark" />
-</p>
-
-### 🗄️ Databases & Dev Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,git,github,vscode,postman,figma&perline=10&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemilrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemilrajput&theme=tokyonight&hide_border=true" height="180"/>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemilrajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" height="180"/>
-</div>
+## Selected work
 
----
+> **Fill in the bracketed values with real numbers from your own systems, then delete
+> this note. A vague claim is worse than no claim.**
 
-## 🏆 GitHub Achievements
+**Laravel product platform** — *cWiser InfoTech*
+Own the backend for `[what the product does, one line]`. Serving
+`[requests/day, active users, or data volume]`.
 
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=hemilrajput&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</div>
+**Deployment pipeline**
+Replaced manual deploys with GitHub Actions CI/CD. Deploy time went from
+`[before]` to `[after]`; rollback is now a single revert.
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemilrajput&bg_color=1a1b27&color=70a5fd&line=0e75b6&point=38bdae&area=true&area_color=0e75b6&hide_border=true&radius=8" width="100%"/>
-</div>
-
----
-
-## 🚀 What I Build
-
-<div align="center">
-
-| 🌐 Full-Stack Apps | 🔌 Backend APIs | ☁️ Cloud & DevOps |
-|:---:|:---:|:---:|
-| Laravel + Vue / React | REST / Headless APIs | AWS EC2, S3, RDS |
-| Nuxt.js SSR / SPAs | Node.js + Express | Docker Containers |
-| WordPress & WooCommerce | Django REST Framework | CI/CD Pipelines |
-| Responsive UI/UX | JWT & OAuth Auth | GitHub Actions |
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemil-rajput/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputhemil4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemilrajput)
-[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/hemilrajput/laravel-typegen)
+**AWS infrastructure**
+Provisioning, nginx configuration, monitoring, and cost management across EC2, RDS,
+and S3. Reduced monthly spend by `[% or rupee amount]` through `[what you actually changed]`.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+## Technical background
+
+| | |
+|---|---|
+| **Core** <br/> <sub>daily work, interview-ready</sub> | PHP · Laravel · MySQL · TypeScript · Vue · Linux · nginx · Docker · AWS (EC2, RDS, S3) · GitHub Actions |
+| **Working knowledge** <br/> <sub>shipped to production, not my specialism</sub> | Node.js · Express · PostgreSQL · Redis · React · Tailwind CSS |
+| **Currently learning** | Kubernetes · Terraform · Go |
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hemilrajput&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/hemilrajput?label=Followers&style=for-the-badge&color=0e75b6" />
+<details>
+<summary><strong>What I typically build</strong></summary>
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+- REST and headless APIs in Laravel, with JWT / OAuth authentication
+- Laravel + Inertia applications with Vue or React front ends
+- Containerised deployments behind nginx on AWS EC2
+- CI/CD pipelines in GitHub Actions — test, build, deploy, rollback
+- Database design and query optimisation on MySQL and PostgreSQL
+
+</details>
+
+<details>
+<summary><strong>How I work</strong></summary>
+
+<br/>
+
+I prefer boring, obvious code over clever code, and I would rather spend an hour on a
+deployment script than an hour redoing a deploy by hand. Most of what I have learned
+about writing maintainable software came from being the person on call for it
+afterwards.
+
+</details>
+
+<br/>
+
+---
+
+<p align="center">
+  <sub>
+    <a href="mailto:rajputhemil4@gmail.com">rajputhemil4@gmail.com</a> ·
+    <a href="https://www.linkedin.com/in/hemil-rajput/">LinkedIn</a> ·
+    <a href="https://packagist.org/packages/hemilrajput/laravel-typegen">Packagist</a>
+  </sub>
+</p>
